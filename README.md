@@ -261,8 +261,7 @@ Jawa Tengah</p>
 
 </div>
 
-</section>
-
+```html
 <section class="section" id="contact">
 
 <h2>Kontak</h2>
@@ -270,14 +269,18 @@ Jawa Tengah</p>
 <div class="card-container">
 
 <div class="card">
-<p>Email</p>
+<strong>Email</strong>
+<p>zugytozuro90@gmail.com</p>
+
 <a class="btn" href="mailto:zugytozuro90@gmail.com">
 Kirim Email
 </a>
 </div>
 
 <div class="card">
-<p>Telepon</p>
+<strong>No. Telepon</strong>
+<p>+62 857-2400-0073</p>
+
 <a class="btn" href="tel:+6285724000073">
 Hubungi Saya
 </a>
@@ -286,6 +289,7 @@ Hubungi Saya
 </div>
 
 </section>
+
 
 <footer>
 © 2026 Website Profil Sugiyanto
