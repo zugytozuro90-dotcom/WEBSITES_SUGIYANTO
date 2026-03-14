@@ -272,7 +272,6 @@ Jawa Tengah</p>
 <div class="card">
 <p>Email</p>
 <a class="btn" href="mailto:zugytozuro90@gmail.com">
-<p>zugytozuro90@gmail.com<p>
 Kirim Email
 </a>
 </div>
@@ -280,7 +279,6 @@ Kirim Email
 <div class="card">
 <p>Telepon</p>
 <a class="btn" href="tel:+6285724000073">
-<p>tel:+6285724000073<p>
 Hubungi Saya
 </a>
 </div>
